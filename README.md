@@ -1,0 +1,2 @@
+# Netezza
+notes for Netezza
